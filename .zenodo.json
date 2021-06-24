@@ -1,8 +1,8 @@
 {
     "description": "Now imagine a good description", 
     "license": "other-open", 
-    "title": "<p>Title on Zenodo should be cool right?</p>", 
-    "version": "v1.1", 
+    "title": "Title on Zenodo should be cool right?", 
+    "version": "v1.19", 
     "upload_type": "software", 
     "publication_date": "2021-06-24", 
     "creators": [
