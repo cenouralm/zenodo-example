@@ -14,8 +14,7 @@
     "related_identifiers": [
         {
             "scheme": "url",
-            "identifier": "https://github.com/ctrl-alt-soneca/zenodo-example/tree/v1.1",
-            "relation": "isSupplementTo"
+            "identifier": "https://github.com/ctrl-alt-soneca/zenodo-example/tree/v1.1"
         },
         {
             "scheme": "doi",
