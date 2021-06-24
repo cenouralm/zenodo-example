@@ -1,8 +1,8 @@
 {
-    "description": "<p>Title on Zenodo should be cool right?</p>", 
+    "description": "Titles are cool and all... but imagine a good description...", 
     "license": "other-open", 
-    "title": "ctrl-alt-soneca/zenodo-example: Our first release had some issue", 
-    "version": "v1.1", 
+    "title": "<p>Title on Zenodo should be cool right?</p>", 
+    "version": "v1.5", 
     "upload_type": "software", 
     "publication_date": "2021-06-24", 
     "creators": [
