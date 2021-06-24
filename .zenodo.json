@@ -7,14 +7,11 @@
     "publication_date": "2021-06-24", 
     "creators": [
         {
-        "affiliation": "University of this", 
-        "name": "Doe, Jane"
-      }, 
-      {
-        "orcid": "12345", 
-        "affiliation": "Uni", 
-        "name": "Joe, Joe"
-      }
+            "name": "Doe, Jane"
+        }, 
+        {
+            "name": "Joe, Joe"
+        }
     ], 
     "access_right": "open", 
     "related_identifiers": [
