@@ -10,15 +10,5 @@
             "name": "ctrl-alt-soneca"
         }
     ],
-    "access_right": "open",
-    "related_identifiers": [
-        {
-            "scheme": "url",
-            "identifier": "https://github.com/ctrl-alt-soneca/zenodo-example/tree/v1.1"
-        },
-        {
-            "scheme": "doi",
-            "identifier": "10.5072/zenodo.871000"
-        }
-    ]
+    "access_right": "open"
 }
