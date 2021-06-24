@@ -7,8 +7,13 @@
     "publication_date": "2021-06-24", 
     "creators": [
         {
-            "name": "Testing guy",
-            "affiliation": "Zenodo"
+            "affiliation": "Uny 1", 
+            "name": "J, tester"
+        }, 
+        {
+            "orcid": "123456", 
+            "affiliation": "Uni 2", 
+            "name": "Joe, Jonas"
         }
     ], 
     "access_right": "open", 
