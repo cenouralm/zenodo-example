@@ -1,0 +1,26 @@
+{
+    "description": "<p>Testing a release</p>",
+    "license": "other-open",
+    "title": "ctrl-alt-soneca/zenodo-example: So now this release better be good",
+    "version": "v1.2",
+    "upload_type": "software",
+    "publication_date": "2021-06-24",
+    "creators": [
+        {
+            "name": "ctrl-alt-soneca"
+        }
+    ],
+    "access_right": "open",
+    "related_identifiers": [
+        {
+            "scheme": "url",
+            "identifier": "https://github.com/ctrl-alt-soneca/zenodo-example/tree/v1.1",
+            "relation": "isSupplementTo"
+        },
+        {
+            "scheme": "doi",
+            "identifier": "10.5072/zenodo.871000",
+            "relation": "isVersionOf"
+        }
+    ]
+}
