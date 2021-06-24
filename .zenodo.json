@@ -1,16 +1,14 @@
 {
-    "description": "Titles are cool and all... but imagine a good description...", 
+    "description": "Now imagine a good description", 
     "license": "other-open", 
     "title": "<p>Title on Zenodo should be cool right?</p>", 
-    "version": "v1.5", 
+    "version": "v1.1", 
     "upload_type": "software", 
     "publication_date": "2021-06-24", 
     "creators": [
         {
-            "name": "Doe, Jane"
-        }, 
-        {
-            "name": "Joe, Joe"
+            "name": "Testing guy",
+            "affiliation": "Zenodo"
         }
     ], 
     "access_right": "open", 
