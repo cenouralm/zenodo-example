@@ -1,29 +1,31 @@
 {
-    "description": "Laser catching has been hunting cats since the beginning of time. In this study, we investigate why the red dot is so hard to catch and present the main skills needed to catch it.",
-    "license": "other-open",
-    "title": "Why cats love the red dot? A scientific approach",
-    "version": "v1.1",
-    "upload_type": "software",
-    "publication_date": "2021-06-25",
-    "communities": [{
-        "identifier": "zenodo"
-    }],
-    "creators": [{
-            "orcid": "0000-0002-1825-0097",
-            "affiliation": "Feline reasearch institute",
-            "name": "Field, Gar"
-        },
+    "description": "Now imagine a good description", 
+    "license": "other-open", 
+    "title": "Title on Zenodo should be cool right?", 
+    "version": "v1.19", 
+    "upload_type": "software", 
+    "publication_date": "2021-06-24", 
+    "creators": [
         {
-            "orcid": "0000-0002-1825-0097",
-            "affiliation": "Feline reasearch institute",
-            "name": "Cat, Felix"
+            "affiliation": "Uny 1", 
+            "name": "J, tester"
+        }, 
+        {
+            "affiliation": "Uni 2", 
+            "name": "Joe, Jonas"
         }
-    ],
-    "access_right": "open",
-    "related_identifiers": [{
+    ], 
+    "access_right": "open", 
+    "related_identifiers": [
+        {
             "scheme": "url", 
             "identifier": "https://github.com/ctrl-alt-soneca/zenodo-example/tree/v1.1", 
-            "relation": "isSupplementTo"
+            "relation": "continues"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.5072/zenodo.871000", 
+            "relation": "continues"
         }, 
         {
             "scheme": "doi", 
