@@ -3,7 +3,11 @@
   "license": "other-open",
   "title": "Why cats love the red dot? A scientific approach",
   "upload_type": "article",
-  "communities": [{"identifier":"zenodo"}],
+  "communities": [
+    {
+        "identifier":"zenodo"
+    }
+  ],
   "publication_date": "2021-06-25",
   "creators": [
     {  
