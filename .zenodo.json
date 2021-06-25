@@ -2,11 +2,12 @@
     "description": "Laser catching has been hunting cats since the beginning of time. In this study, we investigate why the red dot is so hard to catch and present the main skills needed to catch it.",
     "license": "other-open",
     "title": "Why cats love the red dot? A scientific approach",
+    "version": "v1.1",
     "upload_type": "software",
+    "publication_date": "2021-06-25",
     "communities": [{
         "identifier": "zenodo"
     }],
-    "publication_date": "2021-06-25",
     "creators": [{
             "orcid": "0000-0002-1825-0097",
             "affiliation": "Feline reasearch institute",
