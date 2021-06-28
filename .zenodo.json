@@ -21,12 +21,7 @@
             "scheme": "url", 
             "identifier": "https://github.com/ctrl-alt-soneca/zenodo-example/tree/232", 
             "relation": "continues"
-        }, 
-        {
-            "scheme": "doi", 
-            "identifier": "10.5072/zenodo.871000", 
-            "relation": "continues"
-        }, 
+        },
         {
             "scheme": "doi", 
             "identifier": "10.5072/zenodo.871000", 
