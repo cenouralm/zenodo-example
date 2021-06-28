@@ -7,7 +7,12 @@
     "publication_date": "2021-06-28", 
     "creators": [
         {
-            "name": "ctrl-alt-soneca"
+          "affiliation": "Feline reasearch institute",
+          "name": "Field, Gar"
+        },
+        {
+          "affiliation": "Feline reasearch institute",
+          "name": "Cat, Felix"
         }
     ], 
     "access_right": "open", 
