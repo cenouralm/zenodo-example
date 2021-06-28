@@ -6,11 +6,13 @@
     "upload_type": "software", 
     "publication_date": "2021-06-28", 
     "creators": [
-        {
+        {   
+            "orcid": "0000-0002-1825-0097",
             "affiliation": "Feline reasearch institute", 
             "name": "Field, Gar"
         }, 
-        {
+        {   
+            "orcid": "0000-0002-1825-0097",
             "affiliation": "Feline reasearch institute", 
             "name": "Cat, Felix"
         }
