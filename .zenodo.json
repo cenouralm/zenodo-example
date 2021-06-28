@@ -1,10 +1,10 @@
 {
-    "description": "<p>qdqd</p>", 
+    "description": "<p>New release!</p>", 
     "license": "other-open", 
-    "title": "ctrl-alt-soneca/zenodo-example: qwdq", 
-    "version": "123123", 
+    "title": "ctrl-alt-soneca/zenodo-example: Our first release had some issue", 
+    "version": "v1.1", 
     "upload_type": "software", 
-    "publication_date": "2021-06-25", 
+    "publication_date": "2021-06-24", 
     "creators": [
         {
             "name": "ctrl-alt-soneca"
@@ -14,7 +14,7 @@
     "related_identifiers": [
         {
             "scheme": "url", 
-            "identifier": "https://github.com/ctrl-alt-soneca/zenodo-example/tree/123123", 
+            "identifier": "https://github.com/ctrl-alt-soneca/zenodo-example/tree/v1.1", 
             "relation": "isSupplementTo"
         }, 
         {
